@@ -44,16 +44,26 @@ export const skills = {
 export const projects = [
   {
     id: 1,
-    title: "ML-based Crop Recommendation System",
-    description: "Engineered a machine learning system analyzing 8,768 environmental data records to predict optimal crop yields with 76% precision.",
-    longDescription: "Developed a machine learning model in Python using scikit-learn that analyzes soil type, climate, and pH data. Optimized feature selection using PCA, resulting in 15% improvement in model accuracy. Integrated NLP techniques to analyze crop descriptions and environmental reports.",
-    technologies: ["Python", "Scikit-learn", "Pandas", "NumPy", "NLP", "PCA"],
-    outcomes: ["76% precision in crop recommendation", "15% improvement in model accuracy", "8,768+ data records analyzed"],
-    date: "Oct 2023 - Apr 2024",
-    link: "https://ieeexplore.ieee.org/document/10593303"
+    title: "Electronic Arts Product Management Simulation",
+    description: "Developed understanding of KPIs for strategy RPG mobile game, demonstrating knowledge of video game industry performance metrics.",
+    longDescription: "Completed comprehensive job simulation focused on product management in gaming. Developed solid understanding of different KPIs and selected appropriate metrics for measuring business problems related to strategy RPG mobile games. Broke down tasks for creating data-driven video game presentations.",
+    technologies: ["KPI Development", "Gaming Analytics", "Data Analysis", "Product Management"],
+    outcomes: ["Gaming industry KPI expertise", "Data-driven presentation skills", "RPG game metrics understanding"],
+    date: "Dec 2025",
+    link: "#"
   },
   {
     id: 2,
+    title: "ML-based Crop Recommendation System",
+    description: "Engineered a machine learning system analyzing 8,768 environmental data records to predict optimal crop yields with 76% precision.",
+    longDescription: "Developed a machine learning model in Python using scikit-learn that analyzes soil type, climate, and pH data. Optimized feature selection using PCA, resulting in 15% improvement in model accuracy. Integrated NLP techniques to analyze crop descriptions and environmental reports. Published research at IEEE INCET 2024 Conference.",
+    technologies: ["Python", "Scikit-learn", "Pandas", "NumPy", "NLP", "PCA", "Bi-directional LSTM"],
+    outcomes: ["76% precision in crop recommendation", "15% improvement in model accuracy", "IEEE conference publication"],
+    date: "Oct 2023 - May 2024",
+    link: "https://ieeexplore.ieee.org/document/10593303"
+  },
+  {
+    id: 3,
     title: "CNN-based Handwritten Character Recognition",
     description: "Architected a custom CNN with six convolutional and three pooling layers achieving 92% character recognition accuracy.",
     longDescription: "Engineered a custom CNN with TensorFlow and Keras, improving feature extraction and boosting accuracy by 15%. Enhanced model generalization by augmenting dataset from 50,000 to 250,000 characters using image rotation and scaling.",
@@ -63,7 +73,7 @@ export const projects = [
     link: "#"
   },
   {
-    id: 3,
+    id: 4,
     title: "IPL Score Prediction Model",
     description: "Built predictive model for IPL cricket scores using historical match data and multiple regression algorithms.",
     longDescription: "Analyzed IPL seasons 1-9 data to predict team scores. Implemented Linear Regression, Decision Tree, Random Forest, and AdaBoost models. Achieved best performance with Linear Regression based on MAE, MSE, and RMSE metrics.",
@@ -73,7 +83,7 @@ export const projects = [
     link: "#"
   },
   {
-    id: 4,
+    id: 5,
     title: "FIFA 19 Interactive Dashboard",
     description: "Created comprehensive Tableau dashboard analyzing player performance, market value, and skill distributions.",
     longDescription: "Leveraged Tableau to build interactive visualizations analyzing player attributes, nationalities, positions, and market dynamics. Included filters for Position, Age, and Nationality for dynamic data exploration.",
@@ -83,22 +93,12 @@ export const projects = [
     link: "#"
   },
   {
-    id: 5,
+    id: 6,
     title: "UEFA Data Analysis",
     description: "Analyzed comprehensive UEFA competition dataset to gain insights into football dynamics using SQL.",
     longDescription: "Performed extensive SQL queries on Goals, Matches, Players, Stadiums, and Teams datasets. Analyzed goal trends, player statistics, team performance, and stadium impact using PostgreSQL.",
     technologies: ["SQL", "PostgreSQL", "Data Analysis"],
     outcomes: ["Complex cross-table analysis", "Performance metrics calculation", "Comprehensive football insights"],
-    date: "2023",
-    link: "#"
-  },
-  {
-    id: 6,
-    title: "AquaFizz Sales & Compliance Analysis",
-    description: "Analyzed employee compliance and sales data for health-focused beverage startup using Excel.",
-    longDescription: "Developed Excel dashboard analyzing employee working hours compliance and sales performance. Identified top customers, cities, monthly trends, and profit margins by beverage type.",
-    technologies: ["MS Excel", "Data Analysis", "Dashboard Design"],
-    outcomes: ["Compliance tracking system", "Sales insights dashboard", "Profit margin analysis"],
     date: "2023",
     link: "#"
   }
