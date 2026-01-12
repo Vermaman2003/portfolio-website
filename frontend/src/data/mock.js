@@ -16,22 +16,28 @@ export const skills = {
     { name: "SQL", level: 85 }
   ],
   "Data Analysis & Visualization": [
+    { name: "Excel Analytics", level: 90 },
     { name: "Tableau", level: 85 },
-    { name: "Power BI", level: 80 },
-    { name: "MS Excel", level: 90 },
+    { name: "Power BI", level: 85 },
     { name: "Pandas", level: 90 },
     { name: "NumPy", level: 85 }
+  ],
+  "Gaming & Analytics": [
+    { name: "Gaming Analytics", level: 85 },
+    { name: "Esports Data Analysis", level: 80 },
+    { name: "KPI Development", level: 85 },
+    { name: "Player Behavior Insights", level: 80 }
   ],
   "Machine Learning & AI": [
     { name: "Scikit-learn", level: 85 },
     { name: "TensorFlow", level: 80 },
-    { name: "Keras", level: 80 },
     { name: "Statistical Modeling", level: 85 }
   ],
-  "Cloud & Tools": [
-    { name: "AWS", level: 75 },
-    { name: "Git", level: 80 },
-    { name: "ETL Processes", level: 80 }
+  "Data Operations": [
+    { name: "Data Cleaning", level: 90 },
+    { name: "ETL Processes", level: 85 },
+    { name: "Reporting Automation", level: 85 },
+    { name: "Dashboard Design", level: 90 }
   ]
 };
 
