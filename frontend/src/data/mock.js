@@ -109,7 +109,7 @@ export const experience = [
     id: 1,
     title: "Data Science Intern",
     company: "CodeClause Pvt Ltd",
-    location: "Pune, MH",
+    location: "Pune, Maharashtra",
     period: "Dec 2024 - Jan 2025",
     description: [
       "Developed user-friendly web application leveraging Python and ML libraries, resulting in 20% increase in user engagement",
@@ -119,38 +119,51 @@ export const experience = [
   },
   {
     id: 2,
-    title: "Jr Full Stack Developer",
-    company: "Oyitie Learning",
-    location: "Pune, MH",
-    period: "Feb 2023 - May 2023",
+    title: "Product Management Simulation",
+    company: "Electronic Arts (EA)",
+    location: "Remote",
+    period: "Dec 2025",
     description: [
-      "Constructed responsive Resume Builder using Bootstrap, HTML, CSS, Java, and MySQL, serving 500+ users",
-      "Automated daily data processing tasks using Python scripts, reducing manual effort by 50%",
-      "Collaborated with 4 engineering teams on domain design and code testing, contributing to 10% platform performance improvement"
+      "Developed solid understanding of different KPIs for measuring business problems in strategy RPG mobile games",
+      "Selected appropriate KPIs for assessing video game industry performance metrics",
+      "Broke down tasks for creating data-driven video game presentations"
     ]
   },
   {
     id: 3,
-    title: "BCG GenAI Job Simulation",
-    company: "BCGX on Forage",
+    title: "Introduction to Strategy Consulting Job Simulation",
+    company: "Boston Consulting Group (BCG)",
     location: "Remote",
     period: "May 2025",
     description: [
-      "Completed job simulation involving AI-powered financial chatbot development",
-      "Gained experience in Python programming with pandas for data manipulation",
-      "Integrated complex financial data from 10-K and 10-Q reports using rule-based logic"
+      "Learned creative thinking by challenging assumptions that guide current thinking",
+      "Used effective brainstorm strategies to generate business growth ideas",
+      "Developed solutions for luxury clothing company to increase sales revenue"
     ]
   },
   {
     id: 4,
-    title: "Strategy Consulting Job Simulation",
-    company: "BCG on Forage",
-    location: "Remote",
-    period: "May 2025",
+    title: "Academic Research",
+    company: "AISSMS Institute of Information Technology",
+    location: "Pune, Maharashtra",
+    period: "Oct 2023 - May 2024",
     description: [
-      "Learned creative thinking by challenging assumptions",
-      "Used effective brainstorm strategies to generate business growth ideas",
-      "Developed solutions for luxury clothing company to increase sales revenue"
+      "Co-authored research paper on ESP32 Automation and Cloud Computing for crop recommendation using bi-directional LSTM",
+      "Contributed to statistical analysis and algorithm design",
+      "Published at 5th IEEE INCET 2024 Conference"
+    ]
+  },
+  {
+    id: 5,
+    title: "Jr Full Stack Developer",
+    company: "Oytie Learning IT Training Academy",
+    location: "Pune, Maharashtra",
+    period: "Jan 2023 - Apr 2023",
+    description: [
+      "Automated data pipelines and improved data quality for analytics workflows",
+      "Designed dashboards to track performance metrics and user engagement",
+      "Collaborated with engineering and product teams to deliver data-driven improvements",
+      "Strengthened ability to work with large datasets similar to game telemetry and event logs"
     ]
   }
 ];
