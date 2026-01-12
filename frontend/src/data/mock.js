@@ -181,10 +181,10 @@ export const publications = [
 ];
 
 export const education = {
-  degree: "Bachelor of Engineering in Computer Engineering",
-  institution: "AISSMS IOIT (SPPU)",
-  location: "Pune, Maharashtra",
-  period: "Feb 2021 - Jun 2024"
+  degree: "Bachelor of Technology - BTech, Computer Engineering",
+  institution: "Savitribai Phule Pune University (AISSMS IOIT)",
+  location: "Pune, Maharashtra, India",
+  period: "Jan 2020 - Jun 2024"
 };
 
 export const certifications = [
