@@ -190,25 +190,37 @@ export const education = {
 export const certifications = [
   {
     id: 1,
+    name: "Electronic Arts - Product Management Job Simulation",
+    issuer: "Electronic Arts",
+    date: "Dec 2025"
+  },
+  {
+    id: 2,
+    name: "BCG - Introduction to Strategy Consulting Job Simulation",
+    issuer: "Boston Consulting Group",
+    date: "May 2025"
+  },
+  {
+    id: 3,
+    name: "AWS Academy Graduate - AWS Academy Cloud Foundations",
+    issuer: "AWS Academy",
+    date: "2024"
+  },
+  {
+    id: 4,
     name: "Artificial Intelligence with Python",
     issuer: "Great Learning",
     date: "2024"
   },
   {
-    id: 2,
-    name: "AWS Academy Machine Learning Foundations",
-    issuer: "AWS Academy",
-    date: "2024"
-  },
-  {
-    id: 3,
+    id: 5,
     name: "Introduction to Cybersecurity",
     issuer: "Cisco",
     date: "2024"
   },
   {
-    id: 4,
-    name: "Working in a Digital World",
+    id: 6,
+    name: "Working in a Digital World: Professional Skills",
     issuer: "Professional Skills",
     date: "2024"
   }
