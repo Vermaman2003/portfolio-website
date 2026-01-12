@@ -1,13 +1,13 @@
 export const profileData = {
   name: "Aman Kumar Verma",
-  title: "Data Analyst | Machine Learning Engineer",
-  tagline: "Transforming data into actionable insights with Python, ML, and advanced analytics",
-  email: "amankumarverma1003@gmail.com",
+  title: "Data Analyst | Gaming & Esports Analytics",
+  tagline: "Transforming data into actionable insights with Python, SQL, and advanced analytics for gaming and tech",
+  email: "vermamank03@gmail.com",
   phone: "787-529-6616",
-  location: "Pune, Maharashtra",
+  location: "Pune, Maharashtra, India",
   linkedin: "https://www.linkedin.com/in/aman-kumar-verma-63816a252",
   github: "https://github.com/Vermaman2003",
-  summary: "Data-driven Data Analyst with expertise in Python for data processing, analysis, and automation. Proven ability to develop and deploy data-driven solutions, improving prediction accuracy and operational efficiency. Skilled in data visualization, statistical modelling, and machine learning techniques. Certified in AI with Python and AWS Machine Learning Foundations. Passionate about leveraging data to drive informed business decisions."
+  summary: "Data Analyst skilled in Excel analytics, Python, SQL, and dashboarding. Hands-on experience in data cleaning, reporting automation, and building insights to support business decisions. Specialized in gaming analytics, player behavior insights, and esports data. Enjoys transforming raw datasets into clear stories to enhance team understanding of performance, identify patterns, and facilitate smarter decisions. Actively seeking Data Analyst roles in gaming, tech, and consulting with full relocation flexibility."
 };
 
 export const skills = {
