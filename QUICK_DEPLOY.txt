@@ -1,0 +1,56 @@
+╔════════════════════════════════════════════════════════════════╗
+║                  🚀 QUICK DEPLOYMENT COMMANDS                  ║
+║                    GitHub + Vercel Method                      ║
+╚════════════════════════════════════════════════════════════════╝
+
+📍 STEP 1: Create GitHub Repo
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+→ Go to: https://github.com/new
+→ Name: portfolio-website
+→ Set to: Public
+→ Click: Create repository
+
+
+📍 STEP 2: Push Code to GitHub
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+cd /app
+
+# Add your GitHub repository URL
+git remote add origin https://github.com/YOUR-USERNAME/portfolio-website.git
+
+# Push to GitHub
+git branch -M main
+git push -u origin main
+
+
+📍 STEP 3: Deploy on Vercel
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+→ Go to: https://vercel.com
+→ Click: Sign up with GitHub
+→ Click: Import Project
+→ Select: portfolio-website
+→ Root Directory: frontend ⚠️ IMPORTANT!
+→ Click: Deploy
+
+
+📍 RESULT: Your Live Portfolio! 🎉
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+→ URL: https://your-name.vercel.app
+→ Time: 2-3 minutes
+→ Updates: Automatic on git push
+
+
+📍 FUTURE UPDATES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+cd /app
+git add .
+git commit -m "Your update message"
+git push origin main
+
+→ Vercel auto-deploys in 2-3 minutes!
+
+
+╔════════════════════════════════════════════════════════════════╗
+║  📄 Full Guide: /app/GITHUB_VERCEL_DEPLOYMENT.md              ║
+║  🆘 Stuck? Check the troubleshooting section!                 ║
+╚════════════════════════════════════════════════════════════════╝
