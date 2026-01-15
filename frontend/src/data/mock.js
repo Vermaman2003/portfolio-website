@@ -2,7 +2,7 @@ export const profileData = {
   name: "Aman Kumar Verma",
   title: "Data Analyst | Gaming & Esports Analytics",
   tagline: "Transforming data into actionable insights with Python, SQL, and advanced analytics for gaming and tech",
-  email: "vermamank03@gmail.com",
+  email: "amankumarverma1003@gmail.com",
   phone: "787-529-6616",
   location: "Pune, Maharashtra, India",
   linkedin: "https://www.linkedin.com/in/aman-kumar-verma-63816a252",
@@ -110,7 +110,7 @@ export const projects = [
     technologies: ["Django", "Python", "Data Visualization", "HTML", "Databases", "MySQL"],
     outcomes: ["Complete hospital management solution", "Appointment scheduling system", "Logistics tracking"],
     date: "2023",
-    link: "#"
+    link: "https://hospital-management-system-ready-fo.vercel.app/"
   },
   {
     id: 8,
