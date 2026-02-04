@@ -49,7 +49,7 @@ export const projects = [
     longDescription: "Built a comprehensive telemetry analysis tool for PUBG that accurately maps in-game coordinates to the Erangel map. Solved complex coordinate alignment challenges to visualize landing zones and player movements with precision. Features include dynamic zone analysis and real-time data visualization.",
     technologies: ["JavaScript", "Data Visualization", "Geometric Mapping", "Game Analytics", "Telemetry Data"],
     outcomes: ["Accurate coordinate mapping system", "Real-time telemetry visualization", "Landing zone heatmap analysis"],
-    date: "Feb 2026",
+    date: "Nov 2025 - Feb 2026",
     link: "https://pubg-telemetry-dashboard.vercel.app/"
   },
   {
