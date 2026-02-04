@@ -50,7 +50,7 @@ export const projects = [
     technologies: ["JavaScript", "Data Visualization", "Geometric Mapping", "Game Analytics", "Telemetry Data"],
     outcomes: ["Accurate coordinate mapping system", "Real-time telemetry visualization", "Landing zone heatmap analysis"],
     date: "Feb 2026",
-    link: "#"
+    link: "https://pubg-telemetry-dashboard.vercel.app/"
   },
   {
     id: 1,
