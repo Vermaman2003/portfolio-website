@@ -43,6 +43,16 @@ export const skills = {
 
 export const projects = [
   {
+    id: 10,
+    title: "PUBG Telemetry Dashboard",
+    description: "Interactive dashboard visualizing player landing zones and movement patterns on the Erangel map.",
+    longDescription: "Built a comprehensive telemetry analysis tool for PUBG that accurately maps in-game coordinates to the Erangel map. Solved complex coordinate alignment challenges to visualize landing zones and player movements with precision. Features include dynamic zone analysis and real-time data visualization.",
+    technologies: ["JavaScript", "Data Visualization", "Geometric Mapping", "Game Analytics", "Telemetry Data"],
+    outcomes: ["Accurate coordinate mapping system", "Real-time telemetry visualization", "Landing zone heatmap analysis"],
+    date: "Feb 2026",
+    link: "#"
+  },
+  {
     id: 1,
     title: "Electronic Arts Product Management Simulation",
     description: "Developed understanding of KPIs for strategy RPG mobile game, demonstrating knowledge of video game industry performance metrics.",
